@@ -20,13 +20,17 @@ I. User View:
   
 II. Admin View:
     1.Edit Menu
+    
         a. Add item
         b. Edit item
         c. View Menu
         d. Back
+        
     2.Orders
+    
         a. Serve Order
         b. View Orders
         c. Back
+        
     3.Back
 
